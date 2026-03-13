@@ -24,6 +24,5 @@ Some ASCII art used in this project was created with help from the ASCII Art Arc
 https://www.asciiart.eu/gallery
 
 ### Helpful Videos ###
-Project Demo: 
-https://youtu.be/Rrto8_4ZONw
+Project Demo: https://youtu.be/Rrto8_4ZONw
 Project Walkthrough: https://youtu.be/9nbiN7RFp8A
