@@ -1,0 +1,4 @@
+state = {
+    "name": "",
+    "trait": ""
+}
