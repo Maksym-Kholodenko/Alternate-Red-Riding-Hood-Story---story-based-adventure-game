@@ -2,6 +2,8 @@
 A branching console adventure game written in Python.
 Unlike the traditional fairy tale, this project allows the player to experience events from the wolf's perspective. The story changes depending on the player's choices and can lead to multiple endings, including bad, normal, good, and supernatural ones.
 
+---
+
 ### Project Overview ###
 This is a story-based console game that uses:
 - branching choices
@@ -24,5 +26,5 @@ Some ASCII art used in this project was created with help from the ASCII Art Arc
 https://www.asciiart.eu/gallery
 
 ### Helpful Videos ###
-Project Demo: https://youtu.be/Rrto8_4ZONw
-Project Walkthrough: https://youtu.be/9nbiN7RFp8A
+- [Project Demo](https://youtu.be/Rrto8_4ZONw)
+- [Project Walkthrough](https://youtu.be/9nbiN7RFp8A)
