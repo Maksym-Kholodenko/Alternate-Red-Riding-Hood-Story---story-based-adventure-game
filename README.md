@@ -22,3 +22,7 @@ At the moment, the source files are uploaded in a ZIP archive:
 ### Credits ###
 Some ASCII art used in this project was created with help from the ASCII Art Archive:
 https://www.asciiart.eu/gallery
+
+### Helpful Videos ###
+Project Demo: https://youtu.be/Rrto8_4ZONw
+Project Walkthrough: https://youtu.be/9nbiN7RFp8A
